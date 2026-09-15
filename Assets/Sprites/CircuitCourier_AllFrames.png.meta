@@ -1,0 +1,5238 @@
+fileFormatVersion: 2
+guid: 97e78500eacf92e43b81e4cfd019da52
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7944236564861380561
+    second: CircuitCourier_AllFrames_0
+  - first:
+      213: 1283336925228642062
+    second: CircuitCourier_AllFrames_1
+  - first:
+      213: 3973489306728571020
+    second: CircuitCourier_AllFrames_2
+  - first:
+      213: 6035649073053297748
+    second: CircuitCourier_AllFrames_3
+  - first:
+      213: 439058693560589157
+    second: CircuitCourier_AllFrames_4
+  - first:
+      213: -8742981071110672409
+    second: CircuitCourier_AllFrames_5
+  - first:
+      213: -5137226644079287263
+    second: CircuitCourier_AllFrames_6
+  - first:
+      213: -1535086791605607
+    second: CircuitCourier_AllFrames_7
+  - first:
+      213: 8151305380476632505
+    second: CircuitCourier_AllFrames_8
+  - first:
+      213: -4080969431866306045
+    second: CircuitCourier_AllFrames_9
+  - first:
+      213: 5287487158900587230
+    second: CircuitCourier_AllFrames_10
+  - first:
+      213: 8907758693156016414
+    second: CircuitCourier_AllFrames_11
+  - first:
+      213: 29141182312187099
+    second: CircuitCourier_AllFrames_12
+  - first:
+      213: -6176262030489122898
+    second: CircuitCourier_AllFrames_13
+  - first:
+      213: 9077054141611619309
+    second: CircuitCourier_AllFrames_14
+  - first:
+      213: -6893246266088718329
+    second: CircuitCourier_AllFrames_15
+  - first:
+      213: 6724248318516083596
+    second: CircuitCourier_AllFrames_16
+  - first:
+      213: -7071194826334623919
+    second: CircuitCourier_AllFrames_17
+  - first:
+      213: 7246183411145451450
+    second: CircuitCourier_AllFrames_18
+  - first:
+      213: -3280852689358441236
+    second: CircuitCourier_AllFrames_19
+  - first:
+      213: 551744948537725890
+    second: CircuitCourier_AllFrames_20
+  - first:
+      213: -4314168139655068835
+    second: CircuitCourier_AllFrames_21
+  - first:
+      213: 5249713859560575594
+    second: CircuitCourier_AllFrames_22
+  - first:
+      213: -7648070980261872510
+    second: CircuitCourier_AllFrames_23
+  - first:
+      213: 7308398341297842863
+    second: CircuitCourier_AllFrames_24
+  - first:
+      213: 5838931857521615365
+    second: CircuitCourier_AllFrames_25
+  - first:
+      213: -8577409203482572474
+    second: CircuitCourier_AllFrames_26
+  - first:
+      213: 9156843294602342422
+    second: CircuitCourier_AllFrames_27
+  - first:
+      213: 4129689421002676035
+    second: CircuitCourier_AllFrames_28
+  - first:
+      213: 5758321105756051594
+    second: CircuitCourier_AllFrames_29
+  - first:
+      213: -3625383676691555080
+    second: CircuitCourier_AllFrames_30
+  - first:
+      213: 7886541681390943199
+    second: CircuitCourier_AllFrames_31
+  - first:
+      213: -5907565626548925885
+    second: CircuitCourier_AllFrames_32
+  - first:
+      213: 2994252476012791246
+    second: CircuitCourier_AllFrames_33
+  - first:
+      213: -9004275944192950642
+    second: CircuitCourier_AllFrames_34
+  - first:
+      213: 1722849375944582053
+    second: CircuitCourier_AllFrames_35
+  - first:
+      213: -1964181330704721551
+    second: CircuitCourier_AllFrames_36
+  - first:
+      213: 794723018125959894
+    second: CircuitCourier_AllFrames_37
+  - first:
+      213: -2478225564676474783
+    second: CircuitCourier_AllFrames_38
+  - first:
+      213: -3711885133780418116
+    second: CircuitCourier_AllFrames_39
+  - first:
+      213: -7243720082419344208
+    second: CircuitCourier_AllFrames_40
+  - first:
+      213: 503630780293769677
+    second: CircuitCourier_AllFrames_41
+  - first:
+      213: -7254716304664008450
+    second: CircuitCourier_AllFrames_42
+  - first:
+      213: 901161719454733083
+    second: CircuitCourier_AllFrames_43
+  - first:
+      213: 2359871097608552580
+    second: CircuitCourier_AllFrames_44
+  - first:
+      213: 4437692864307588295
+    second: CircuitCourier_AllFrames_45
+  - first:
+      213: -8052875971297499272
+    second: CircuitCourier_AllFrames_46
+  - first:
+      213: 6173934941732843632
+    second: CircuitCourier_AllFrames_47
+  - first:
+      213: 228337122510166679
+    second: CircuitCourier_AllFrames_48
+  - first:
+      213: 6077107346512723780
+    second: CircuitCourier_AllFrames_49
+  - first:
+      213: 3605713649350234668
+    second: CircuitCourier_AllFrames_50
+  - first:
+      213: -6209133571902248650
+    second: CircuitCourier_AllFrames_51
+  - first:
+      213: 5338635381597234301
+    second: CircuitCourier_AllFrames_52
+  - first:
+      213: -2988529686250113718
+    second: CircuitCourier_AllFrames_53
+  - first:
+      213: 5652465258996422125
+    second: CircuitCourier_AllFrames_54
+  - first:
+      213: -3273427181360563022
+    second: CircuitCourier_AllFrames_55
+  - first:
+      213: -2499642648729348048
+    second: CircuitCourier_AllFrames_56
+  - first:
+      213: 3746259578115847571
+    second: CircuitCourier_AllFrames_57
+  - first:
+      213: -8524559991821336952
+    second: CircuitCourier_AllFrames_58
+  - first:
+      213: -4830718233475352405
+    second: CircuitCourier_AllFrames_59
+  - first:
+      213: -6420377282583424706
+    second: CircuitCourier_AllFrames_60
+  - first:
+      213: 5027213807821666928
+    second: CircuitCourier_AllFrames_61
+  - first:
+      213: -5275108600536771239
+    second: CircuitCourier_AllFrames_62
+  - first:
+      213: -6396732133624187135
+    second: CircuitCourier_AllFrames_63
+  - first:
+      213: 3951428170210483337
+    second: CircuitCourier_AllFrames_64
+  - first:
+      213: -7506352785227732365
+    second: CircuitCourier_AllFrames_65
+  - first:
+      213: -6938465431668657274
+    second: CircuitCourier_AllFrames_66
+  - first:
+      213: 5243016837656189749
+    second: CircuitCourier_AllFrames_67
+  - first:
+      213: -8825380433173592077
+    second: CircuitCourier_AllFrames_68
+  - first:
+      213: -6508033069240914513
+    second: CircuitCourier_AllFrames_69
+  - first:
+      213: -5354175663746124678
+    second: CircuitCourier_AllFrames_70
+  - first:
+      213: -3465477910077015259
+    second: CircuitCourier_AllFrames_71
+  - first:
+      213: 7186806492736235797
+    second: CircuitCourier_AllFrames_72
+  - first:
+      213: -578098115470309155
+    second: CircuitCourier_AllFrames_73
+  - first:
+      213: 314194755220829802
+    second: CircuitCourier_AllFrames_74
+  - first:
+      213: -8385699980982139191
+    second: CircuitCourier_AllFrames_75
+  - first:
+      213: 1894646758828959718
+    second: CircuitCourier_AllFrames_76
+  - first:
+      213: 8880077414220716636
+    second: CircuitCourier_AllFrames_77
+  - first:
+      213: 8029737098862223344
+    second: CircuitCourier_AllFrames_78
+  - first:
+      213: 2839443893474335266
+    second: CircuitCourier_AllFrames_79
+  - first:
+      213: 8819897966112805341
+    second: CircuitCourier_AllFrames_80
+  - first:
+      213: 3054100050035180737
+    second: CircuitCourier_AllFrames_81
+  - first:
+      213: 8202633762153985063
+    second: CircuitCourier_AllFrames_82
+  - first:
+      213: -8534205201262626379
+    second: CircuitCourier_AllFrames_83
+  - first:
+      213: -6309548197487189341
+    second: CircuitCourier_AllFrames_84
+  - first:
+      213: -7468130816112922848
+    second: CircuitCourier_AllFrames_85
+  - first:
+      213: 8118238371232125782
+    second: CircuitCourier_AllFrames_86
+  - first:
+      213: 8942819636021323355
+    second: CircuitCourier_AllFrames_87
+  - first:
+      213: -4868648947289294726
+    second: CircuitCourier_AllFrames_88
+  - first:
+      213: -5777493879135425310
+    second: CircuitCourier_AllFrames_89
+  - first:
+      213: 6896587220351711528
+    second: CircuitCourier_AllFrames_90
+  - first:
+      213: -5349468568179559779
+    second: CircuitCourier_AllFrames_91
+  - first:
+      213: -7586577603866828703
+    second: CircuitCourier_AllFrames_92
+  - first:
+      213: -4567828507554163168
+    second: CircuitCourier_AllFrames_93
+  - first:
+      213: 1011272322737359555
+    second: CircuitCourier_AllFrames_94
+  - first:
+      213: -1587112325665961600
+    second: CircuitCourier_AllFrames_95
+  - first:
+      213: 8021855002616926652
+    second: CircuitCourier_AllFrames_96
+  - first:
+      213: 5711232391409880490
+    second: CircuitCourier_AllFrames_97
+  - first:
+      213: -1033134117366489403
+    second: CircuitCourier_AllFrames_98
+  - first:
+      213: -2295101346871782136
+    second: CircuitCourier_AllFrames_99
+  - first:
+      213: 3396282378311428625
+    second: CircuitCourier_AllFrames_100
+  - first:
+      213: 3169918240099179572
+    second: CircuitCourier_AllFrames_101
+  - first:
+      213: 4125545781198518389
+    second: CircuitCourier_AllFrames_102
+  - first:
+      213: 7597022700377671452
+    second: CircuitCourier_AllFrames_103
+  - first:
+      213: 3639336037813146266
+    second: CircuitCourier_AllFrames_104
+  - first:
+      213: -3198033774689527996
+    second: CircuitCourier_AllFrames_105
+  - first:
+      213: 2165392156925107439
+    second: CircuitCourier_AllFrames_106
+  - first:
+      213: -6974173598280517602
+    second: CircuitCourier_AllFrames_107
+  - first:
+      213: 6192172653767109026
+    second: CircuitCourier_AllFrames_108
+  - first:
+      213: -5462684308057638422
+    second: CircuitCourier_AllFrames_109
+  - first:
+      213: -936298494422144952
+    second: CircuitCourier_AllFrames_110
+  - first:
+      213: 127352140836856982
+    second: CircuitCourier_AllFrames_111
+  - first:
+      213: 5815717904457282008
+    second: CircuitCourier_AllFrames_112
+  - first:
+      213: 1719200537401403644
+    second: CircuitCourier_AllFrames_113
+  - first:
+      213: 5108843462018348160
+    second: CircuitCourier_AllFrames_114
+  - first:
+      213: 521214232063917701
+    second: CircuitCourier_AllFrames_115
+  - first:
+      213: 275486637140798695
+    second: CircuitCourier_AllFrames_116
+  - first:
+      213: 3751624318261627452
+    second: CircuitCourier_AllFrames_117
+  - first:
+      213: 3200177872875597318
+    second: CircuitCourier_AllFrames_118
+  - first:
+      213: -6290938887102003599
+    second: CircuitCourier_AllFrames_119
+  - first:
+      213: -714923469465929790
+    second: CircuitCourier_AllFrames_120
+  - first:
+      213: 4462796570735565379
+    second: CircuitCourier_AllFrames_121
+  - first:
+      213: -2056579249610794129
+    second: CircuitCourier_AllFrames_122
+  - first:
+      213: 6674504479404440655
+    second: CircuitCourier_AllFrames_123
+  - first:
+      213: -8336334070152779086
+    second: CircuitCourier_AllFrames_124
+  - first:
+      213: 3834621964013344052
+    second: CircuitCourier_AllFrames_125
+  - first:
+      213: 6999874415872272935
+    second: CircuitCourier_AllFrames_126
+  - first:
+      213: 694228213274331421
+    second: CircuitCourier_AllFrames_127
+  - first:
+      213: 9094687506734555889
+    second: CircuitCourier_AllFrames_128
+  - first:
+      213: 224514096379464348
+    second: CircuitCourier_AllFrames_129
+  - first:
+      213: 4407246703683415011
+    second: CircuitCourier_AllFrames_130
+  - first:
+      213: 6131380678603312920
+    second: CircuitCourier_AllFrames_131
+  - first:
+      213: 8584640728224246422
+    second: CircuitCourier_AllFrames_132
+  - first:
+      213: 7283843311916882778
+    second: CircuitCourier_AllFrames_133
+  - first:
+      213: -1004168918936925512
+    second: CircuitCourier_AllFrames_134
+  - first:
+      213: -8260631400770853874
+    second: CircuitCourier_AllFrames_135
+  - first:
+      213: -4054439881180853219
+    second: CircuitCourier_AllFrames_136
+  - first:
+      213: -6679128150485502794
+    second: CircuitCourier_AllFrames_137
+  - first:
+      213: 1409260337752502648
+    second: CircuitCourier_AllFrames_138
+  - first:
+      213: -5383838620667634557
+    second: CircuitCourier_AllFrames_139
+  - first:
+      213: 5716916792817027084
+    second: CircuitCourier_AllFrames_140
+  - first:
+      213: -2473764589524807215
+    second: CircuitCourier_AllFrames_141
+  - first:
+      213: 6869624521091019215
+    second: CircuitCourier_AllFrames_142
+  - first:
+      213: 388673597327601334
+    second: CircuitCourier_AllFrames_143
+  - first:
+      213: 4590777120899855622
+    second: CircuitCourier_AllFrames_144
+  - first:
+      213: -4339994578680153263
+    second: CircuitCourier_AllFrames_145
+  - first:
+      213: 5987515907540066785
+    second: CircuitCourier_AllFrames_146
+  - first:
+      213: -583409397114500775
+    second: CircuitCourier_AllFrames_147
+  - first:
+      213: 6511902499303046269
+    second: CircuitCourier_AllFrames_148
+  - first:
+      213: -6551841103218207807
+    second: CircuitCourier_AllFrames_149
+  - first:
+      213: 1015025278161936915
+    second: CircuitCourier_AllFrames_150
+  - first:
+      213: -44401606956122172
+    second: CircuitCourier_AllFrames_151
+  - first:
+      213: -836786072787043921
+    second: CircuitCourier_AllFrames_152
+  - first:
+      213: 6637182270643064248
+    second: CircuitCourier_AllFrames_153
+  - first:
+      213: -9000630351602828336
+    second: CircuitCourier_AllFrames_154
+  - first:
+      213: 6467935857020928984
+    second: CircuitCourier_AllFrames_155
+  - first:
+      213: -8550688662953453244
+    second: CircuitCourier_AllFrames_156
+  - first:
+      213: -7339648893132116577
+    second: CircuitCourier_AllFrames_157
+  - first:
+      213: 2035410460038387711
+    second: CircuitCourier_AllFrames_158
+  - first:
+      213: 7002949903935246492
+    second: CircuitCourier_AllFrames_159
+  - first:
+      213: 6191208200741126988
+    second: CircuitCourier_AllFrames_160
+  - first:
+      213: 1001125251241013358
+    second: CircuitCourier_AllFrames_161
+  - first:
+      213: -2364381425891798116
+    second: CircuitCourier_AllFrames_162
+  - first:
+      213: 5731004277940440096
+    second: CircuitCourier_AllFrames_163
+  - first:
+      213: -6245763717197596862
+    second: CircuitCourier_AllFrames_164
+  - first:
+      213: 2269709324346114332
+    second: CircuitCourier_AllFrames_165
+  - first:
+      213: 1448249328816258503
+    second: CircuitCourier_AllFrames_166
+  - first:
+      213: -648218195197721221
+    second: CircuitCourier_AllFrames_167
+  - first:
+      213: 7482256975110462876
+    second: CircuitCourier_AllFrames_168
+  - first:
+      213: -1882264775976150058
+    second: CircuitCourier_AllFrames_169
+  - first:
+      213: -7864785160544549192
+    second: CircuitCourier_AllFrames_170
+  - first:
+      213: 7055043895996027013
+    second: CircuitCourier_AllFrames_171
+  - first:
+      213: -2204152355069673643
+    second: CircuitCourier_AllFrames_172
+  - first:
+      213: 1714070352818096262
+    second: CircuitCourier_AllFrames_173
+  - first:
+      213: 5435635262810756117
+    second: CircuitCourier_AllFrames_174
+  - first:
+      213: -7558681311291736043
+    second: CircuitCourier_AllFrames_175
+  - first:
+      213: -6094977999412952275
+    second: CircuitCourier_AllFrames_176
+  - first:
+      213: -4492216761302331645
+    second: CircuitCourier_AllFrames_177
+  - first:
+      213: 1261979265197462176
+    second: CircuitCourier_AllFrames_178
+  - first:
+      213: 1097440226424230878
+    second: CircuitCourier_AllFrames_179
+  - first:
+      213: -2544289256412655565
+    second: CircuitCourier_AllFrames_180
+  - first:
+      213: -118846583575741913
+    second: CircuitCourier_AllFrames_181
+  - first:
+      213: 5235084695691099713
+    second: CircuitCourier_AllFrames_182
+  - first:
+      213: -8205279965205563364
+    second: CircuitCourier_AllFrames_183
+  - first:
+      213: 5280683386795978299
+    second: CircuitCourier_AllFrames_184
+  - first:
+      213: 3116204228509255778
+    second: CircuitCourier_AllFrames_185
+  - first:
+      213: -8631185156796913450
+    second: CircuitCourier_AllFrames_186
+  - first:
+      213: -2445786951948718512
+    second: CircuitCourier_AllFrames_187
+  - first:
+      213: 6534376986770274044
+    second: CircuitCourier_AllFrames_188
+  - first:
+      213: 7002500463295137173
+    second: CircuitCourier_AllFrames_189
+  - first:
+      213: -5311772790652144124
+    second: CircuitCourier_AllFrames_190
+  - first:
+      213: -9155400656532680703
+    second: CircuitCourier_AllFrames_191
+  - first:
+      213: 8059307502458912561
+    second: CircuitCourier_AllFrames_192
+  - first:
+      213: 1324812399227495220
+    second: CircuitCourier_AllFrames_193
+  - first:
+      213: -1430056148157369033
+    second: CircuitCourier_AllFrames_194
+  - first:
+      213: 9014681395052157695
+    second: CircuitCourier_AllFrames_195
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pellet
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d76b3cb0199f3e60800000000000000
+      internalID: 7944236564861380561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerPellet_01
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f256352245fc110800000000000000
+      internalID: 1283336925228642062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PowerPellet_02
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80ae56d87ba42730800000000000000
+      internalID: 3973489306728571020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BonusCherry
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ce14c8adee2c350800000000000000
+      internalID: 6035649073053297748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LifeIcon
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56bd9393e89d71600800000000000000
+      internalID: 439058693560589157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OutsideCorner
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7efeb72c901baa680800000000000000
+      internalID: -8742981071110672409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OutsideWall
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1246bfcd597e4b8b0800000000000000
+      internalID: -5137226644079287263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InsideCorner
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9924611c8db8afff0800000000000000
+      internalID: -1535086791605607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InsideWall
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd3a0b5e014f1170800000000000000
+      internalID: 8151305380476632505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TJunction
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30291627ceb7d57c0800000000000000
+      internalID: -4080969431866306045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostGate
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda75b48e8de06940800000000000000
+      internalID: 5287487158900587230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11567a0657be9b70800000000000000
+      internalID: 8907758693156016414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd48d0c30c7876000800000000000000
+      internalID: 29141182312187099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea786f01862894aa0800000000000000
+      internalID: -6176262030489122898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3bfb546ac28fd70800000000000000
+      internalID: 9077054141611619309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7008e700b054650a0800000000000000
+      internalID: -6893246266088718329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b3ba61834515d50800000000000000
+      internalID: 6724248318516083596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157aebe25c11edd90800000000000000
+      internalID: -7071194826334623919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab727a6ab6d9f8460800000000000000
+      internalID: 7246183411145451450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_19
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce4b76a9cd11872d0800000000000000
+      internalID: -3280852689358441236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c315308b1138a700800000000000000
+      internalID: 551744948537725890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_21
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d534d863feef024c0800000000000000
+      internalID: -4314168139655068835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a629d8be0fabad840800000000000000
+      internalID: 5249713859560575594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_23
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c7484f6f79cd590800000000000000
+      internalID: -7648070980261872510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_24
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faaac12e195ac6560800000000000000
+      internalID: 7308398341297842863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_25
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502a943a69d080150800000000000000
+      internalID: 5838931857521615365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_26
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649414546cbe6f880800000000000000
+      internalID: -8577409203482572474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_27
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610b0be1674a31f70800000000000000
+      internalID: 9156843294602342422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3479d8bf5aa9f4930800000000000000
+      internalID: 4129689421002676035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_29
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88593b698aa9ef40800000000000000
+      internalID: 5758321105756051594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_30
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fcdc4011cc00bdc0800000000000000
+      internalID: -3625383676691555080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_31
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb7e91efdf927d60800000000000000
+      internalID: 7886541681390943199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a4e3ebc5c140ea0800000000000000
+      internalID: -5907565626548925885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_33
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5839043c8bd8920800000000000000
+      internalID: 2994252476012791246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_34
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8eb8c64cb26a0380800000000000000
+      internalID: -9004275944192950642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_35
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a32eae116ac8e710800000000000000
+      internalID: 1722849375944582053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17914e48c73ddb4e0800000000000000
+      internalID: -1964181330704721551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_37
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d26936df5c670b00800000000000000
+      internalID: 794723018125959894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_38
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 168ba28aaf29b9dd0800000000000000
+      internalID: -2478225564676474783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_39
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb107f1232cbc7cc0800000000000000
+      internalID: -3711885133780418116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_40
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc1803c6f2297b90800000000000000
+      internalID: -7243720082419344208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_41
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9ec5db6814df600800000000000000
+      internalID: 503630780293769677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8644245f1125b90800000000000000
+      internalID: -7254716304664008450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_43
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13974d2fc1918c00800000000000000
+      internalID: 901161719454733083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_44
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4804ba89242ffb020800000000000000
+      internalID: 2359871097608552580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_45
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cce65fe52ad59d30800000000000000
+      internalID: 4437692864307588295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877a88658ff6e3090800000000000000
+      internalID: -8052875971297499272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_47
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070bb5c5e193ea550800000000000000
+      internalID: 6173934941732843632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_48
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ad04437673b2300800000000000000
+      internalID: 228337122510166679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_49
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44fbeca0fe8365450800000000000000
+      internalID: 6077107346512723780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_50
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c225c4fc5711a0230800000000000000
+      internalID: 3605713649350234668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_51
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63960dbe9e9b4d9a0800000000000000
+      internalID: -6209133571902248650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_52
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d746f612894a61a40800000000000000
+      internalID: 5338635381597234301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_53
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a453a52951c9686d0800000000000000
+      internalID: -2988529686250113718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_54
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5d7bb7437917e40800000000000000
+      internalID: 5652465258996422125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_55
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc35e862537292d0800000000000000
+      internalID: -3273427181360563022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0381211314c7f4dd0800000000000000
+      internalID: -2499642648729348048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_57
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395fffddc336df330800000000000000
+      internalID: 3746259578115847571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e7bfc3adda2b980800000000000000
+      internalID: -8524559991821336952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_59
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8f2b36c57d5fcb0800000000000000
+      internalID: -4830718233475352405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_60
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3190abc0ec36e6a0800000000000000
+      internalID: -6420377282583424706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_61
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a3629a25044c540800000000000000
+      internalID: 5027213807821666928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_62
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955d5613dac0bc6b0800000000000000
+      internalID: -5275108600536771239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_63
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 107f00c040e3a37a0800000000000000
+      internalID: -6396732133624187135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_64
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c1ed83cfa46d630800000000000000
+      internalID: 3951428170210483337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_65
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37aacb589e314d790800000000000000
+      internalID: -7506352785227732365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_66
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683ff03937e95bf90800000000000000
+      internalID: -6938465431668657274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_67
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b93eff800f2c840800000000000000
+      internalID: 5243016837656189749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_68
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f741014143f58580800000000000000
+      internalID: -8825380433173592077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_69
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad66619762dea5a0800000000000000
+      internalID: -6508033069240914513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74fe59f99522b5b0800000000000000
+      internalID: -5354175663746124678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_71
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b75e0a33628efc0800000000000000
+      internalID: -3465477910077015259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_72
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519a3058d6aacb360800000000000000
+      internalID: 7186806492736235797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_73
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8c11ea3de2af7f0800000000000000
+      internalID: -578098115470309155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_74
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a667a37177e3c5400800000000000000
+      internalID: 314194755220829802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_75
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c64f80fb4200ab80800000000000000
+      internalID: -8385699980982139191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_76
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e768da50332b4a10800000000000000
+      internalID: 1894646758828959718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_77
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a589c0c5f5c3b70800000000000000
+      internalID: 8880077414220716636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_78
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff5579195b5f6f60800000000000000
+      internalID: 8029737098862223344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_79
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a90365d2bb76720800000000000000
+      internalID: 2839443893474335266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_80
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd118596872966a70800000000000000
+      internalID: 8819897966112805341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_81
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c489de60d7526a20800000000000000
+      internalID: 3054100050035180737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_82
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72470df72fb95d170800000000000000
+      internalID: 8202633762153985063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_83
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9337ae599609980800000000000000
+      internalID: -8534205201262626379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2e193085bff68a0800000000000000
+      internalID: -6309548197487189341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_85
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02fe071379edb5890800000000000000
+      internalID: -7468130816112922848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_86
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6539c3f49c6c9a070800000000000000
+      internalID: 8118238371232125782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_87
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56607fe3174b1c70800000000000000
+      internalID: 8942819636021323355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_88
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78fdb0e3951f6cb0800000000000000
+      internalID: -4868648947289294726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_89
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eca32a6de732dfa0800000000000000
+      internalID: -5777493879135425310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829ff87898995bf50800000000000000
+      internalID: 6896587220351711528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_91
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d923a801eaed2c5b0800000000000000
+      internalID: -5349468568179559779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_92
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160659c5ddf07b690800000000000000
+      internalID: -7586577603866828703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_93
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026d45c7c20db90c0800000000000000
+      internalID: -4567828507554163168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_94
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cac1ffc1d2c80e00800000000000000
+      internalID: 1011272322737359555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_95
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089490aafb179f9e0800000000000000
+      internalID: -1587112325665961600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_96
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb11cae8f9a535f60800000000000000
+      internalID: 8021855002616926652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_97
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aadc0bfb99f524f40800000000000000
+      internalID: 5711232391409880490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce98097ef199a1f0800000000000000
+      internalID: -1033134117366489403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_99
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805df282c792620e0800000000000000
+      internalID: -2295101346871782136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_100
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11aeb2c24d4022f20800000000000000
+      internalID: 3396282378311428625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_101
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c942c28dfcdfb20800000000000000
+      internalID: 3169918240099179572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_102
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578f2f8a702e04930800000000000000
+      internalID: 4125545781198518389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_103
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17079e25eb0e6960800000000000000
+      internalID: 7597022700377671452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_104
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92512828d4818230800000000000000
+      internalID: 3639336037813146266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_105
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447ddefc93d4e93d0800000000000000
+      internalID: -3198033774689527996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_106
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec10f8a1b40d0e10800000000000000
+      internalID: 2165392156925107439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_107
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18f4982012c63f90800000000000000
+      internalID: -6974173598280517602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_108
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a92da798340fe550800000000000000
+      internalID: 6192172653767109026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_109
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9bf1a7095a034b0800000000000000
+      internalID: -5462684308057638422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_110
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8482c34ea799103f0800000000000000
+      internalID: -936298494422144952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_111
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69467fbe81274c100800000000000000
+      internalID: 127352140836856982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d13e010f9495b050800000000000000
+      internalID: 5815717904457282008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_113
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf8a871b7c3dbd710800000000000000
+      internalID: 1719200537401403644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_114
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0843ea69f0246e640800000000000000
+      internalID: 5108843462018348160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_115
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e3c022599bb3700800000000000000
+      internalID: 521214232063917701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ece42b03a9b2d300800000000000000
+      internalID: 275486637140798695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_117
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a83b4c072701430800000000000000
+      internalID: 3751624318261627452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_118
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ea0d2f1d0596c20800000000000000
+      internalID: 3200177872875597318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_119
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176089ab96812b8a0800000000000000
+      internalID: -6290938887102003599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_120
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7b4e074e41416f0800000000000000
+      internalID: -714923469465929790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_121
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a568f06d90fed30800000000000000
+      internalID: 4462796570735565379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_122
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b528691109573e0800000000000000
+      internalID: -2056579249610794129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_123
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4cb7a2067a90ac50800000000000000
+      internalID: 6674504479404440655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_124
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2baae8bb4546f4c80800000000000000
+      internalID: -8336334070152779086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_125
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4351dec0c50573530800000000000000
+      internalID: 3834621964013344052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a696eb1bc842160800000000000000
+      internalID: 6999874415872272935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_127
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19454db1e462a900800000000000000
+      internalID: 694228213274331421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_128
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2a8160a12d63e70800000000000000
+      internalID: 9094687506734555889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_129
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a04c19162ad1300800000000000000
+      internalID: 224514096379464348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_130
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ebaf82c68fa92d30800000000000000
+      internalID: 4407246703683415011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_131
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f08d2ed3a071550800000000000000
+      internalID: 6131380678603312920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_132
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a282a4245c22770800000000000000
+      internalID: 8584640728224246422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_133
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b196696e8651560800000000000000
+      internalID: 7283843311916882778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_134
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bac64440b97012f0800000000000000
+      internalID: -1004168918936925512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_135
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04ad98f1875c5d80800000000000000
+      internalID: -8260631400770853874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_136
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1cc90fc86cbbb7c0800000000000000
+      internalID: -4054439881180853219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_137
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4fffca558fe43a0800000000000000
+      internalID: -6679128150485502794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_138
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871f8c38fc2be8310800000000000000
+      internalID: 1409260337752502648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_139
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c931f9c43c845b0800000000000000
+      internalID: -5383838620667634557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0803569881965f40800000000000000
+      internalID: 5716916792817027084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_141
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d11f6f563c6badd0800000000000000
+      internalID: -2473764589524807215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_142
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc171f7ea1fc55f50800000000000000
+      internalID: 6869624521091019215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_143
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bee846d398d46500800000000000000
+      internalID: 388673597327601334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_144
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605f93ee777b5bf30800000000000000
+      internalID: 4590777120899855622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_145
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15bf5aacced35c3c0800000000000000
+      internalID: -4339994578680153263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_146
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e12de3aefde71350800000000000000
+      internalID: 5987515907540066785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_147
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9598d5e8e3057e7f0800000000000000
+      internalID: -583409397114500775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_148
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7cbfe252dcee5a50800000000000000
+      internalID: 6511902499303046269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_149
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c310e1da3f2315a0800000000000000
+      internalID: -6551841103218207807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_150
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31262e6dc18161e00800000000000000
+      internalID: 1015025278161936915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_151
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf7ce549f0426ff0800000000000000
+      internalID: -44401606956122172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_152
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9b88210832364f0800000000000000
+      internalID: -836786072787043921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_153
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd433f1c120c1c50800000000000000
+      internalID: 6637182270643064248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_154
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db3d12f166571380800000000000000
+      internalID: -9000630351602828336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_155
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d38eb3b469b2c950800000000000000
+      internalID: 6467935857020928984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_156
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44913bbe6f9d55980800000000000000
+      internalID: -8550688662953453244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_157
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d65c40834542a90800000000000000
+      internalID: -7339648893132116577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_158
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7d3b2870b3f3c10800000000000000
+      internalID: 2035410460038387711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_159
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c909aeb95d97f2160800000000000000
+      internalID: 7002949903935246492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_160
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4309af5e079be550800000000000000
+      internalID: 6191208200741126988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_161
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60f4ef9c16b4ed00800000000000000
+      internalID: 1001125251241013358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_162
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c931034ce97003fd0800000000000000
+      internalID: -2364381425891798116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_163
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c42e0d60e988f40800000000000000
+      internalID: 5731004277940440096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_164
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247f96d9df69259a0800000000000000
+      internalID: -6245763717197596862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_165
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11ca05ea90af7f10800000000000000
+      internalID: 2269709324346114332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_166
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd7a466717391410800000000000000
+      internalID: 1448249328816258503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_167
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b758b426cf01107f0800000000000000
+      internalID: -648218195197721221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9dd5af731156d760800000000000000
+      internalID: 7482256975110462876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_169
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db16bea82ad0e5e0800000000000000
+      internalID: -1882264775976150058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_170
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b68afed09baad290800000000000000
+      internalID: -7864785160544549192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_171
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58091af4b0d88e160800000000000000
+      internalID: 7055043895996027013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_172
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f3b357c174961e0800000000000000
+      internalID: -2204152355069673643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_173
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68840c387e999c710800000000000000
+      internalID: 1714070352818096262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_174
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5141c68e8714f6b40800000000000000
+      internalID: 5435635262810756117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_175
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510821e156b2a1790800000000000000
+      internalID: -7558681311291736043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_176
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d238b275dc94a6ba0800000000000000
+      internalID: -6094977999412952275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_177
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30fc48808a078a1c0800000000000000
+      internalID: -4492216761302331645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_178
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2d0089473738110800000000000000
+      internalID: 1261979265197462176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_179
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed39d3a4214ea3f00800000000000000
+      internalID: 1097440226424230878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_180
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3305ea9c66ed0bcd0800000000000000
+      internalID: -2544289256412655565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_181
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72af23379a5c95ef0800000000000000
+      internalID: -118846583575741913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_182
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e70c74bc1c6a840800000000000000
+      internalID: 5235084695691099713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_183
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18fa47585df02e80800000000000000
+      internalID: -8205279965205563364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_184
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ee741ef81c84940800000000000000
+      internalID: 5280683386795978299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_185
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2684dd74c3bfe3b20800000000000000
+      internalID: 3116204228509255778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_186
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d8ee7274ded73880800000000000000
+      internalID: -8631185156796913450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_187
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05eafccb9b1de0ed0800000000000000
+      internalID: -2445786951948718512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_188
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6fde4bf35ceaa50800000000000000
+      internalID: 6534376986770274044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_189
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595073e0211ed2160800000000000000
+      internalID: 7002500463295137173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_190
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406f7953acac846b0800000000000000
+      internalID: -5311772790652144124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_191
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100ddfa3c9b71f080800000000000000
+      internalID: -9155400656532680703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_192
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f34b3397968df60800000000000000
+      internalID: 8059307502458912561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_193
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433ecf1abdda26210800000000000000
+      internalID: 1324812399227495220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_194
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7357730928b672ce0800000000000000
+      internalID: -1430056148157369033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_195
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa186b87f49a1d70800000000000000
+      internalID: 9014681395052157695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircuitCourier_AllFrames_196
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7ecca152c51434794c759755119b45
+      internalID: -241948662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5a212f060f6637142a73a445e336a0a4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      BonusCherry: 6035649073053297748
+      CircuitCourier_AllFrames_100: 3396282378311428625
+      CircuitCourier_AllFrames_101: 3169918240099179572
+      CircuitCourier_AllFrames_102: 4125545781198518389
+      CircuitCourier_AllFrames_103: 7597022700377671452
+      CircuitCourier_AllFrames_104: 3639336037813146266
+      CircuitCourier_AllFrames_105: -3198033774689527996
+      CircuitCourier_AllFrames_106: 2165392156925107439
+      CircuitCourier_AllFrames_107: -6974173598280517602
+      CircuitCourier_AllFrames_108: 6192172653767109026
+      CircuitCourier_AllFrames_109: -5462684308057638422
+      CircuitCourier_AllFrames_11: 8907758693156016414
+      CircuitCourier_AllFrames_110: -936298494422144952
+      CircuitCourier_AllFrames_111: 127352140836856982
+      CircuitCourier_AllFrames_112: 5815717904457282008
+      CircuitCourier_AllFrames_113: 1719200537401403644
+      CircuitCourier_AllFrames_114: 5108843462018348160
+      CircuitCourier_AllFrames_115: 521214232063917701
+      CircuitCourier_AllFrames_116: 275486637140798695
+      CircuitCourier_AllFrames_117: 3751624318261627452
+      CircuitCourier_AllFrames_118: 3200177872875597318
+      CircuitCourier_AllFrames_119: -6290938887102003599
+      CircuitCourier_AllFrames_12: 29141182312187099
+      CircuitCourier_AllFrames_120: -714923469465929790
+      CircuitCourier_AllFrames_121: 4462796570735565379
+      CircuitCourier_AllFrames_122: -2056579249610794129
+      CircuitCourier_AllFrames_123: 6674504479404440655
+      CircuitCourier_AllFrames_124: -8336334070152779086
+      CircuitCourier_AllFrames_125: 3834621964013344052
+      CircuitCourier_AllFrames_126: 6999874415872272935
+      CircuitCourier_AllFrames_127: 694228213274331421
+      CircuitCourier_AllFrames_128: 9094687506734555889
+      CircuitCourier_AllFrames_129: 224514096379464348
+      CircuitCourier_AllFrames_13: -6176262030489122898
+      CircuitCourier_AllFrames_130: 4407246703683415011
+      CircuitCourier_AllFrames_131: 6131380678603312920
+      CircuitCourier_AllFrames_132: 8584640728224246422
+      CircuitCourier_AllFrames_133: 7283843311916882778
+      CircuitCourier_AllFrames_134: -1004168918936925512
+      CircuitCourier_AllFrames_135: -8260631400770853874
+      CircuitCourier_AllFrames_136: -4054439881180853219
+      CircuitCourier_AllFrames_137: -6679128150485502794
+      CircuitCourier_AllFrames_138: 1409260337752502648
+      CircuitCourier_AllFrames_139: -5383838620667634557
+      CircuitCourier_AllFrames_14: 9077054141611619309
+      CircuitCourier_AllFrames_140: 5716916792817027084
+      CircuitCourier_AllFrames_141: -2473764589524807215
+      CircuitCourier_AllFrames_142: 6869624521091019215
+      CircuitCourier_AllFrames_143: 388673597327601334
+      CircuitCourier_AllFrames_144: 4590777120899855622
+      CircuitCourier_AllFrames_145: -4339994578680153263
+      CircuitCourier_AllFrames_146: 5987515907540066785
+      CircuitCourier_AllFrames_147: -583409397114500775
+      CircuitCourier_AllFrames_148: 6511902499303046269
+      CircuitCourier_AllFrames_149: -6551841103218207807
+      CircuitCourier_AllFrames_15: -6893246266088718329
+      CircuitCourier_AllFrames_150: 1015025278161936915
+      CircuitCourier_AllFrames_151: -44401606956122172
+      CircuitCourier_AllFrames_152: -836786072787043921
+      CircuitCourier_AllFrames_153: 6637182270643064248
+      CircuitCourier_AllFrames_154: -9000630351602828336
+      CircuitCourier_AllFrames_155: 6467935857020928984
+      CircuitCourier_AllFrames_156: -8550688662953453244
+      CircuitCourier_AllFrames_157: -7339648893132116577
+      CircuitCourier_AllFrames_158: 2035410460038387711
+      CircuitCourier_AllFrames_159: 7002949903935246492
+      CircuitCourier_AllFrames_16: 6724248318516083596
+      CircuitCourier_AllFrames_160: 6191208200741126988
+      CircuitCourier_AllFrames_161: 1001125251241013358
+      CircuitCourier_AllFrames_162: -2364381425891798116
+      CircuitCourier_AllFrames_163: 5731004277940440096
+      CircuitCourier_AllFrames_164: -6245763717197596862
+      CircuitCourier_AllFrames_165: 2269709324346114332
+      CircuitCourier_AllFrames_166: 1448249328816258503
+      CircuitCourier_AllFrames_167: -648218195197721221
+      CircuitCourier_AllFrames_168: 7482256975110462876
+      CircuitCourier_AllFrames_169: -1882264775976150058
+      CircuitCourier_AllFrames_17: -7071194826334623919
+      CircuitCourier_AllFrames_170: -7864785160544549192
+      CircuitCourier_AllFrames_171: 7055043895996027013
+      CircuitCourier_AllFrames_172: -2204152355069673643
+      CircuitCourier_AllFrames_173: 1714070352818096262
+      CircuitCourier_AllFrames_174: 5435635262810756117
+      CircuitCourier_AllFrames_175: -7558681311291736043
+      CircuitCourier_AllFrames_176: -6094977999412952275
+      CircuitCourier_AllFrames_177: -4492216761302331645
+      CircuitCourier_AllFrames_178: 1261979265197462176
+      CircuitCourier_AllFrames_179: 1097440226424230878
+      CircuitCourier_AllFrames_18: 7246183411145451450
+      CircuitCourier_AllFrames_180: -2544289256412655565
+      CircuitCourier_AllFrames_181: -118846583575741913
+      CircuitCourier_AllFrames_182: 5235084695691099713
+      CircuitCourier_AllFrames_183: -8205279965205563364
+      CircuitCourier_AllFrames_184: 5280683386795978299
+      CircuitCourier_AllFrames_185: 3116204228509255778
+      CircuitCourier_AllFrames_186: -8631185156796913450
+      CircuitCourier_AllFrames_187: -2445786951948718512
+      CircuitCourier_AllFrames_188: 6534376986770274044
+      CircuitCourier_AllFrames_189: 7002500463295137173
+      CircuitCourier_AllFrames_19: -3280852689358441236
+      CircuitCourier_AllFrames_190: -5311772790652144124
+      CircuitCourier_AllFrames_191: -9155400656532680703
+      CircuitCourier_AllFrames_192: 8059307502458912561
+      CircuitCourier_AllFrames_193: 1324812399227495220
+      CircuitCourier_AllFrames_194: -1430056148157369033
+      CircuitCourier_AllFrames_195: 9014681395052157695
+      CircuitCourier_AllFrames_196: -241948662
+      CircuitCourier_AllFrames_20: 551744948537725890
+      CircuitCourier_AllFrames_21: -4314168139655068835
+      CircuitCourier_AllFrames_22: 5249713859560575594
+      CircuitCourier_AllFrames_23: -7648070980261872510
+      CircuitCourier_AllFrames_24: 7308398341297842863
+      CircuitCourier_AllFrames_25: 5838931857521615365
+      CircuitCourier_AllFrames_26: -8577409203482572474
+      CircuitCourier_AllFrames_27: 9156843294602342422
+      CircuitCourier_AllFrames_28: 4129689421002676035
+      CircuitCourier_AllFrames_29: 5758321105756051594
+      CircuitCourier_AllFrames_30: -3625383676691555080
+      CircuitCourier_AllFrames_31: 7886541681390943199
+      CircuitCourier_AllFrames_32: -5907565626548925885
+      CircuitCourier_AllFrames_33: 2994252476012791246
+      CircuitCourier_AllFrames_34: -9004275944192950642
+      CircuitCourier_AllFrames_35: 1722849375944582053
+      CircuitCourier_AllFrames_36: -1964181330704721551
+      CircuitCourier_AllFrames_37: 794723018125959894
+      CircuitCourier_AllFrames_38: -2478225564676474783
+      CircuitCourier_AllFrames_39: -3711885133780418116
+      CircuitCourier_AllFrames_40: -7243720082419344208
+      CircuitCourier_AllFrames_41: 503630780293769677
+      CircuitCourier_AllFrames_42: -7254716304664008450
+      CircuitCourier_AllFrames_43: 901161719454733083
+      CircuitCourier_AllFrames_44: 2359871097608552580
+      CircuitCourier_AllFrames_45: 4437692864307588295
+      CircuitCourier_AllFrames_46: -8052875971297499272
+      CircuitCourier_AllFrames_47: 6173934941732843632
+      CircuitCourier_AllFrames_48: 228337122510166679
+      CircuitCourier_AllFrames_49: 6077107346512723780
+      CircuitCourier_AllFrames_50: 3605713649350234668
+      CircuitCourier_AllFrames_51: -6209133571902248650
+      CircuitCourier_AllFrames_52: 5338635381597234301
+      CircuitCourier_AllFrames_53: -2988529686250113718
+      CircuitCourier_AllFrames_54: 5652465258996422125
+      CircuitCourier_AllFrames_55: -3273427181360563022
+      CircuitCourier_AllFrames_56: -2499642648729348048
+      CircuitCourier_AllFrames_57: 3746259578115847571
+      CircuitCourier_AllFrames_58: -8524559991821336952
+      CircuitCourier_AllFrames_59: -4830718233475352405
+      CircuitCourier_AllFrames_60: -6420377282583424706
+      CircuitCourier_AllFrames_61: 5027213807821666928
+      CircuitCourier_AllFrames_62: -5275108600536771239
+      CircuitCourier_AllFrames_63: -6396732133624187135
+      CircuitCourier_AllFrames_64: 3951428170210483337
+      CircuitCourier_AllFrames_65: -7506352785227732365
+      CircuitCourier_AllFrames_66: -6938465431668657274
+      CircuitCourier_AllFrames_67: 5243016837656189749
+      CircuitCourier_AllFrames_68: -8825380433173592077
+      CircuitCourier_AllFrames_69: -6508033069240914513
+      CircuitCourier_AllFrames_70: -5354175663746124678
+      CircuitCourier_AllFrames_71: -3465477910077015259
+      CircuitCourier_AllFrames_72: 7186806492736235797
+      CircuitCourier_AllFrames_73: -578098115470309155
+      CircuitCourier_AllFrames_74: 314194755220829802
+      CircuitCourier_AllFrames_75: -8385699980982139191
+      CircuitCourier_AllFrames_76: 1894646758828959718
+      CircuitCourier_AllFrames_77: 8880077414220716636
+      CircuitCourier_AllFrames_78: 8029737098862223344
+      CircuitCourier_AllFrames_79: 2839443893474335266
+      CircuitCourier_AllFrames_80: 8819897966112805341
+      CircuitCourier_AllFrames_81: 3054100050035180737
+      CircuitCourier_AllFrames_82: 8202633762153985063
+      CircuitCourier_AllFrames_83: -8534205201262626379
+      CircuitCourier_AllFrames_84: -6309548197487189341
+      CircuitCourier_AllFrames_85: -7468130816112922848
+      CircuitCourier_AllFrames_86: 8118238371232125782
+      CircuitCourier_AllFrames_87: 8942819636021323355
+      CircuitCourier_AllFrames_88: -4868648947289294726
+      CircuitCourier_AllFrames_89: -5777493879135425310
+      CircuitCourier_AllFrames_90: 6896587220351711528
+      CircuitCourier_AllFrames_91: -5349468568179559779
+      CircuitCourier_AllFrames_92: -7586577603866828703
+      CircuitCourier_AllFrames_93: -4567828507554163168
+      CircuitCourier_AllFrames_94: 1011272322737359555
+      CircuitCourier_AllFrames_95: -1587112325665961600
+      CircuitCourier_AllFrames_96: 8021855002616926652
+      CircuitCourier_AllFrames_97: 5711232391409880490
+      CircuitCourier_AllFrames_98: -1033134117366489403
+      CircuitCourier_AllFrames_99: -2295101346871782136
+      GhostGate: 5287487158900587230
+      InsideCorner: -1535086791605607
+      InsideWall: 8151305380476632505
+      LifeIcon: 439058693560589157
+      OutsideCorner: -8742981071110672409
+      OutsideWall: -5137226644079287263
+      Pellet: 7944236564861380561
+      PowerPellet_01: 1283336925228642062
+      PowerPellet_02: 3973489306728571020
+      TJunction: -4080969431866306045
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
