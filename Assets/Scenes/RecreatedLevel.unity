@@ -9371,6 +9371,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 616010295}
+  - component: {fileID: 616010296}
   m_Layer: 0
   m_Name: Systems
   m_TagString: Untagged
@@ -9393,6 +9394,28 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &616010296
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 616010294}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4377277a927dae44d8ce19d770fe7215, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::LevelGenerator
+  outsideCorner: {fileID: 4677492698858207235, guid: be536121738cc6b4b9374f31aa1043d9, type: 3}
+  outsideWall: {fileID: 1757155945977579077, guid: 681c30c7ae8ae2b479ff73698ce5680e, type: 3}
+  insideCorner: {fileID: 6128194567908720578, guid: cfb50cb140af9fb4e97d6d7f5262c4a9, type: 3}
+  insideWall: {fileID: 8856467833507112834, guid: 4cd828c551c47cc49bdd65601b293931, type: 3}
+  pellet: {fileID: 1783835968123751517, guid: 3f9ddb95296ea804f8bc5789c1dd0488, type: 3}
+  powerPellet: {fileID: 6711936954756791895, guid: 2a6feec182ce3124ab9c630613fdb7ae, type: 3}
+  tJunction: {fileID: 6196768153298353312, guid: f851f1bd21d259b4abfc655eae9c094d, type: 3}
+  ghostGate: {fileID: 2213059857581780226, guid: 0f1277f36bd5a084b93b760b27711315, type: 3}
+  sceneMap: {fileID: 146810488}
+  mapCamera: {fileID: 519420031}
 --- !u!1001 &621685668
 PrefabInstance:
   m_ObjectHideFlags: 0
