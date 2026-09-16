@@ -323,7 +323,7 @@ public class LevelGenerator : MonoBehaviour
     }
 
 
-        // 沿竖墙找拐角或T接点，判断纹路朝哪边，不该画不对称的（挠头）
+        // 沿竖墙找拐角或T接点，判断纹路朝哪边（挠头）
         int GetOutsideWallAngle(int row, int column, int[,] wallDirections)
     {
         if (wallDirections[row, column] % 180 == 0)
@@ -466,6 +466,9 @@ public class LevelGenerator : MonoBehaviour
         float bottomY = -(fullHeight - 1);
 
         // 四个象限用父对象翻转
+
+        // 发现错误。手摆时把R04_C13转成了180度，应为90度
+        // 四个象限都用相同的局部角度，镜像交给父对象
         CreateMapPart(
             generatedMap.transform,
             "Quadrant_TopLeft",
