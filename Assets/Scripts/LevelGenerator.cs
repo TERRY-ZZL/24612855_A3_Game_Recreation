@@ -84,8 +84,13 @@ public class LevelGenerator : MonoBehaviour
         }
     }
 
+
+
+
+
+
     // 读取完整地图，镜像位置折回左上象限
-    int GetMapValue(int row, int column)
+    public int GetMapValue(int row, int column)
     {
         int rowCount = levelMap.GetLength(0);
         int columnCount = levelMap.GetLength(1);
@@ -171,6 +176,7 @@ public class LevelGenerator : MonoBehaviour
         return 0;
     }
 
+    
     
 
     // 对两边的连接类型
