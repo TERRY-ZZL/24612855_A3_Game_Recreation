@@ -18,6 +18,7 @@ public class PacStudentController : MonoBehaviour
 
 
     public ParticleSystem wallHit;
+    public ParticleSystem playerDeath;
     public AudioClip wallSound;
 
     private bool wallStopped = false;
@@ -69,6 +70,11 @@ public class PacStudentController : MonoBehaviour
 
     void Update()
     {
+        if (!game.CanPlay())
+        {
+            return;
+        }
+
         ReadInput();
 
         if (waitInput)
@@ -85,7 +91,12 @@ public class PacStudentController : MonoBehaviour
             {
                 game.EatFood(transform.position);
 
-                               if (!StartMove())
+                if (!game.CanPlay())
+                {
+                    return;
+                }
+
+                if (!StartMove())
                 {
                     playerAnimator.speed = 0f;
                     StopMoveShow();
@@ -154,7 +165,65 @@ public class PacStudentController : MonoBehaviour
         }
     }
 
+    public void StopPlayer()
+    {
+        isMoving = false;
+        movePercent = 0f;
+        waitInput = true;
 
+        StopMoveShow();
+        playerAnimator.speed = 0f;
+
+        wallHit.Stop(
+            true, ParticleSystemStopBehavior.StopEmittingAndClear);
+    }
+
+
+    public void PlayDeath()
+    {
+        StopPlayer();
+
+        // 死亡动画要恢复播放
+        playerAnimator.speed = 1f;
+        playerAnimator.SetBool("IsDead", true);
+        playerAnimator.Play("PacStudent_Dead", 0, 0f);
+        playerAnimator.Update(0f);
+
+        playerDeath.Stop(
+            true, ParticleSystemStopBehavior.StopEmittingAndClear);
+
+        playerDeath.transform.localPosition = Vector3.zero;
+        playerDeath.Play();
+        playerDeath.Emit(20);
+    }
+
+
+    public void ResetPlayer()
+    {
+        StopPlayer();
+
+        playerDeath.Stop(
+            true, ParticleSystemStopBehavior.StopEmittingAndClear);
+
+        transform.position = new Vector3(1f, -1f, 0f);
+        startPoint = transform.position;
+        endPoint = transform.position;
+
+        lastInput = -1;
+        currentInput = -1;
+        wallStopped = false;
+
+        playerAnimator.SetBool("PreviewMode", false);
+        playerAnimator.SetBool("IsDead", false);
+        playerAnimator.SetInteger("Direction", 0);
+
+        playerAnimator.speed = 1f;
+        playerAnimator.Play("PacStudent_WalkRight", 0, 0f);
+        playerAnimator.Update(0f);
+        playerAnimator.speed = 0f;
+
+        game.ResetCherryCheck();
+    }
 
     public bool HasStarted()
     {
