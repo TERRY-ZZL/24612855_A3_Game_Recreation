@@ -638,6 +638,17 @@ public class GameManager : MonoBehaviour
         lastCherryPoint = cherryPoint;
     }
 
+    public void ResetGhostPoint(GhostController ghost)
+    {
+        for (int i = 0; i < ghosts.Length; i++)
+        {
+            if (ghosts[i] == ghost)
+            {
+                oldGhostPoints[i] = ghost.transform.position;
+                return;
+            }
+        }
+    }
 
 
 
