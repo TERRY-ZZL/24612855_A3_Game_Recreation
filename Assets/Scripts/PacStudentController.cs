@@ -9,12 +9,23 @@ using UnityEngine.InputSystem;
 public class PacStudentController : MonoBehaviour
 {
     public LevelGenerator map;
+    public GameManager game;
     public float moveSpeed = 5f;
 
     public AudioClip moveSound;
     public AudioClip eatSound;
     public ParticleSystem moveDust;
 
+
+    public ParticleSystem wallHit;
+    public AudioClip wallSound;
+
+    private bool wallStopped = false;
+
+
+
+
+    
     private int lastInput = -1;
     private int currentInput = -1;
 
@@ -28,7 +39,7 @@ public class PacStudentController : MonoBehaviour
     private Animator playerAnimator;
     private AudioSource moveAudio;
 
-    private GameObject[,] foodMap = new GameObject[29, 28];
+   
 
 
 
@@ -49,29 +60,10 @@ public class PacStudentController : MonoBehaviour
         moveDust.Stop(
             true, ParticleSystemStopBehavior.StopEmittingAndClear);
 
-        FindFood();
+
     }
 
 
-
-    void FindFood()
-    {
-        Transform[] mapObjects =
-            map.sceneMap.GetComponentsInChildren<Transform>();
-
-        foreach (Transform item in mapObjects)
-        {
-            if (item.name.EndsWith("_Pellet") ||
-                item.name.EndsWith("_PowerPellet"))
-            {
-                // 镜像地图也用世界位置
-                int column = Mathf.RoundToInt(item.position.x);
-                int row = Mathf.RoundToInt(-item.position.y);
-
-                foodMap[row, column] = item.gameObject;
-            }
-        }
-    }
 
 
 
@@ -91,10 +83,19 @@ public class PacStudentController : MonoBehaviour
             // 到格点再选方向
             if (!isMoving)
             {
-                if (!StartMove())
+                game.EatFood(transform.position);
+
+                               if (!StartMove())
                 {
                     playerAnimator.speed = 0f;
                     StopMoveShow();
+
+                    if (!wallStopped)
+                    {
+                        PlayWallHit();
+                        wallStopped = true;
+                    }
+
                     return;
                 }
             }
@@ -106,13 +107,18 @@ public class PacStudentController : MonoBehaviour
 
             float needTime = (1f - movePercent) / moveSpeed;
 
+
+
             if (leftTime >= needTime)
             {
                 transform.position = endPoint;
                 leftTime = leftTime - needTime;
                 movePercent = 0f;
                 isMoving = false;
+
+                CheckTeleport();
             }
+            
             else
             {
                 movePercent = movePercent + leftTime * moveSpeed;
@@ -125,6 +131,35 @@ public class PacStudentController : MonoBehaviour
         }
     }
 
+
+
+
+
+    void CheckTeleport()
+    {
+        if (transform.position.y != -14f)
+        {
+            return;
+        }
+
+        if (currentInput == 2 && transform.position.x == 0f)
+        {
+            transform.position = new Vector3(27f, -14f, 0f);
+            game.ResetCherryCheck();
+        }
+        else if (currentInput == 0 && transform.position.x == 27f)
+        {
+            transform.position = new Vector3(0f, -14f, 0f);
+            game.ResetCherryCheck();
+        }
+    }
+
+
+
+    public bool HasStarted()
+    {
+        return !waitInput;
+    }
 
 
     void ReadInput()
@@ -179,6 +214,7 @@ public class PacStudentController : MonoBehaviour
         }
 
         currentInput = nextInput;
+        wallStopped = false;
 
         startPoint = transform.position;
         endPoint = startPoint + GetDirection(currentInput);
@@ -202,9 +238,8 @@ public class PacStudentController : MonoBehaviour
         int row = Mathf.RoundToInt(-endPoint.y);
 
         AudioClip nextSound = moveSound;
-        GameObject food = foodMap[row, column];
 
-        if (food != null && food.activeInHierarchy)
+        if (game.HasFood(row, column))
         {
             nextSound = eatSound;
         }
@@ -226,6 +261,27 @@ public class PacStudentController : MonoBehaviour
             moveDust.Play();
         }
     }
+
+
+
+    void PlayWallHit()
+    {
+        int hitDirection = currentInput;
+
+        if (hitDirection == -1)
+        {
+            hitDirection = lastInput;
+        }
+
+        wallHit.transform.position = transform.position
+            + GetDirection(hitDirection) * 0.5f;
+
+        wallHit.Play();
+        wallHit.Emit(8);
+        game.eventAudio.PlayOneShot(wallSound);
+    }
+
+
 
 
 
