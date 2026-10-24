@@ -9,6 +9,9 @@ using UnityEngine.UI;
 public class GameManager : MonoBehaviour
 {
     public LevelGenerator map;
+
+    public InnovationController innovation;
+
     public TMP_Text scoreText;
 
     public PacStudentController player;
@@ -433,14 +436,23 @@ public class GameManager : MonoBehaviour
 
         GameObject food = foodMap[row, column];
 
-        if (food != null && food.activeInHierarchy)
-        {
-            return true;
-        }
-        else
+        if (food == null || !food.activeInHierarchy)
         {
             return false;
         }
+
+        if (innovation != null)
+        {
+            if (!food.name.EndsWith("_PowerPellet"))
+            {
+                if (!innovation.CanEatPellet())
+                {
+                    return false;
+                }
+            }
+        }
+
+        return true;
     }
 
 
@@ -454,6 +466,14 @@ public class GameManager : MonoBehaviour
             return;
         }
 
+        if (innovation != null)
+        {
+            if (innovation.CheckExit(playerPoint))
+            {
+                return;
+            }
+        }
+
         int column = Mathf.RoundToInt(playerPoint.x);
         int row = Mathf.RoundToInt(-playerPoint.y);
 
@@ -465,7 +485,6 @@ public class GameManager : MonoBehaviour
         GameObject food = foodMap[row, column];
         int addScore;
 
-
         if (food.name.EndsWith("_PowerPellet"))
         {
             addScore = 50;
@@ -474,7 +493,15 @@ public class GameManager : MonoBehaviour
         else
         {
             addScore = 10;
+
+            if (innovation != null)
+            {
+                innovation.AddEnergy();
+            }
         }
+
+
+
 
 
 
@@ -671,4 +698,27 @@ public class GameManager : MonoBehaviour
 
         SceneManager.LoadScene("StartScene");
     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
 }

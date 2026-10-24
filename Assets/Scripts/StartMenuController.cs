@@ -56,7 +56,14 @@ public class StartMenuController : MonoBehaviour
         SceneManager.LoadScene("RecreatedLevel");
     }
 
+    public void OpenLevel2()
+    {
+        SceneManager.LoadScene("InnovationScene");
+    }
 
+
+
+    
     void Update()
     {
         // 每秒换一次方向
