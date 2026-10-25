@@ -13,6 +13,9 @@ public class InnovationController : MonoBehaviour
     public TMP_Text energyText;
     public TMP_Text beaconText;
     public TMP_Text hintText;
+    public TMP_Text exitLabel;
+
+
 
     private int energy = 0;
     private int lightNum = 0;
@@ -30,8 +33,12 @@ public class InnovationController : MonoBehaviour
 
         exitPoint.color = darkColor;
 
+
+        exitLabel.text = "EXIT\n<size=28>LOCKED</size>";
+        exitLabel.color = Color.white;
+
         ShowNumber();
-        hintText.text = "Collect energy. Press E near a beacon.";
+        hintText.text = "Collect 20 energy per beacon, press E to light all 3, then reach the exit.";
     }
 
 
@@ -44,7 +51,7 @@ public class InnovationController : MonoBehaviour
             return;
         }
 
-        string tip = "Collect energy. Press E near a beacon.";
+        string tip = "Collect 20 energy per beacon, press E to light all 3, then reach the exit.";
 
         if (lightNum == 3)
         {
@@ -90,11 +97,18 @@ public class InnovationController : MonoBehaviour
                         lightNum = lightNum + 1;
 
                         beacons[i].color = lightColor;
+                        game.eventAudio.PlayOneShot(game.cherrySound);
                         tip = "Beacon charged";
 
                         if (lightNum == 3)
                         {
                             exitPoint.color = lightColor;
+
+
+                            exitLabel.text = "EXIT\n<size=28>OPEN</size>";
+                            exitLabel.color = lightColor;
+
+                            
                             tip = "Exit open";
                         }
 
@@ -120,6 +134,11 @@ public class InnovationController : MonoBehaviour
             {
                 tip = "Exit locked";
             }
+        }
+
+        if (lightNum == 3)
+        {
+            tip = "Exit open - reach the exit";
         }
 
         hintText.text = tip;
